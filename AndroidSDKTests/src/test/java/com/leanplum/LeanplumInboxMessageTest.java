@@ -20,6 +20,7 @@
  */
 package com.leanplum;
 
+import com.leanplum.features.inbox.LeanplumInboxMessage;
 import com.leanplum.internal.Constants;
 
 import org.junit.Test;

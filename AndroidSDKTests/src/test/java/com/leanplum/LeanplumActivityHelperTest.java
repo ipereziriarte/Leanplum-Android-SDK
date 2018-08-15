@@ -24,7 +24,7 @@ import android.annotation.SuppressLint;
 import android.app.Activity;
 
 import com.leanplum.__setup.LeanplumTestHelper;
-import com.leanplum.callbacks.PostponableAction;
+import com.leanplum.features.actions.PostponableAction;
 
 import junit.framework.TestCase;
 

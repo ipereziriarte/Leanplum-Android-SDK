@@ -23,8 +23,9 @@ package com.leanplum;
 import com.leanplum.__setup.AbstractTest;
 import com.leanplum._whitebox.utilities.RequestHelper;
 import com.leanplum._whitebox.utilities.ResponseHelper;
-import com.leanplum.callbacks.InboxChangedCallback;
-import com.leanplum.callbacks.InboxSyncedCallback;
+import com.leanplum.features.inbox.InboxChangedCallback;
+import com.leanplum.features.inbox.InboxSyncedCallback;
+import com.leanplum.features.inbox.LeanplumInboxMessage;
 import com.leanplum.internal.Constants;
 import com.leanplum.internal.Util;
 

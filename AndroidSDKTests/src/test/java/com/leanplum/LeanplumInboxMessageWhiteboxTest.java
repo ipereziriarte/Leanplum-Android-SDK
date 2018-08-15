@@ -23,6 +23,7 @@ package com.leanplum;
 
 import com.leanplum.__setup.AbstractTest;
 import com.leanplum._whitebox.utilities.ResponseHelper;
+import com.leanplum.features.inbox.LeanplumInboxMessage;
 
 import org.junit.Before;
 import org.junit.Test;
