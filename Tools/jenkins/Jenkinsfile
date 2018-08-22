@@ -18,5 +18,5 @@ pipeline {
 }
 
 def buildAndTest() {
-    sh 'Build and test job  Priority last'
+    sh 'Build and test job  Priority 2'
 }
